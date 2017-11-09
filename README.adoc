@@ -42,7 +42,7 @@ IMPORTANT: The GitHub branch you select is important, and choosing the incorrect
 
 Read the next two sections *carefully* *_before_* choosing which branch and `config.json` file to edit.
 
-==== I am not using my GitHub Pages domain for any other project
+==== I am not using my GitHub Pages domain for any other project and I do not want to use a custom domain
 
 If you are not using your github.io Pages domain you can use it to quickly set up HubPress.
 
