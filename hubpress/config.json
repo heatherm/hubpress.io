@@ -9,10 +9,10 @@
     "name": "casper"
   },
   "urls": {
-    "site": "https://heatherm.github.io/hubpress.io",
+    "site": "http://sfpc.heather.work",
     "hubpress": "https://heatherm.github.io/hubpress.io",
-    "theme": "//heatherm.github.io/hubpress.io/themes/casper",
-    "images": "https://heatherm.github.io/hubpress.io/images"
+    "theme": "//sfpc.heather.work/themes/casper",
+    "images": "http://sfpc.heather.work/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
