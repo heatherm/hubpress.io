@@ -6,7 +6,7 @@
     "cname": "sfpc.heather.work"
   },
   "theme": {
-    "name": "casper"
+    "name": "attila"
   },
   "urls": {
     "site": "http://sfpc.heather.work",
@@ -31,7 +31,7 @@
     "cover": "",
     "delay": "",
     "postsPerPage": "",
-    "googleAnalytics": "",
+    "googleAnalytics": "UA-16432932-4",
     "disqus": ""
   },
   "socialnetwork": {
