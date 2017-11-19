@@ -11,7 +11,7 @@
   "urls": {
     "site": "http://sfpc.heather.work",
     "hubpress": "https://heatherm.github.io/hubpress.io",
-    "theme": "//sfpc.heather.work/themes/attila",
+    "theme": "//sfpc.heather.work/themes/casper",
     "images": "http://sfpc.heather.work/images"
   },
   "initialisationConfigComponent": {
